@@ -56,6 +56,9 @@ FUTURE ENHANCEMENTS
 * Include sound or animation for feedback
 * Implement user profile and score tracking over time.
 
+TUTORIAL ON HOW TO USE THE APP
+https://youtu.be/ZdeqcMz--fU
+
 
 AUTHOR
 * Londiwe Tembe
