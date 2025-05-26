@@ -29,7 +29,7 @@ Technologies Used
 
 INSTALLATION & SETUP
 1. Clone the Repository:
-
+https://github.com/Londiwe-803/Quizzes-App 
 
 
 2. Open in Android Studio:
