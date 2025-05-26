@@ -62,3 +62,8 @@ AUTHOR
 * Student Number: ST10488648
 * Course: HIGHER CERTIFICATE in MOBILE APPLICATION and WEB DEVELOPMENT
 * Module: IMAD5112 
+
+REFERENCES
+Liehan Els : https://youtu.be/HzNZA7ow5EA
+Kotlin Programming Language: https://kotlinlang.org/
+             
